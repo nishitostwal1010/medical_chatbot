@@ -15,7 +15,6 @@
 ├── rag.ipynb                                              # Sample RAG chain invocation
 ├── medibot.py                                             # Streamlit chatbot app
 ├── requirements.txt                                       # Python dependencies
-├── .env                                                   # Environment variables (API key)
 └── README.md
 ```
 
@@ -60,7 +59,7 @@ Ensure this file is added to `.gitignore`.
 
 ## ⚠️ Note on `chroma_db/` Folder
 
-The `chroma_db/` folder is **not included in the repository** because it exceeds GitHub's file size limits.
+The `chroma_db/` folder is **not included in the repository** because it can be generated locally.
 
 > 🔄 To generate it locally, simply run:
 >
