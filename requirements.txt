@@ -4,4 +4,4 @@ langchain-google-genai
 langchain-core
 langchain-chroma
 python-dotenv
-PyPDF2
+PyPDF
